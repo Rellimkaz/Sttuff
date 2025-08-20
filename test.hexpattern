@@ -1,29 +1,111 @@
-Mind's Reflection
-Compass' Purification
-Mind's Reflection
-Alidade's Purification
-Archer's Distillation
-Numerical Reflection: 5
-Zone Distillation: Item
+Whisper Reflection
+False Reflection
+Case Distillation
+Comma Reflection
+Separation Distillation
+Flock's Disintegration
+Flock's Reflection
+Numerical Reflection: 2
+Equality Distillation
 {
-    Mediafy Item
-    Stocktake Purification
-    Speaker's Decomposition
-    Jester's Gambit
-    Speaker's Decomposition
+    Input Purification
+}
+{
+    Numerical Reflection: 1
+}
+Augur's Exaltation
+Hermes' Gambit
+Vacant Reflection
+Numerical Reflection: 3
+Flock's Gambit
+Huginn's Gambit
+{
     Gemini Decomposition
-    Nullary Reflection
+    Scrivener's Purification
+    False Reflection
+    Case Distillation
+    Gemini Decomposition
+    Muninn's Reflection
+    Numerical Reflection: 0
+    Selection Distillation
     Equality Distillation
     {
         Bookkeeper's Gambit: v
-        Atalanta's Gambit
+        Stocktake Purification
+        Numerical Reflection: 0
+        Selection Distillation
+        Gemini Decomposition
+        Send Thought
+        Mind's Reflection
+        Compass' Purification
+        Muninn's Reflection
+        Numerical Reflection: 1
+        Selection Distillation
+        Return Item
+        Janus' Gambit
     }
-    Vacant Reflection
+    {
+        Muninn's Reflection
+        Numerical Reflection: 0
+        Selection Distillation
+        Locator's Distillation
+        Numerical Reflection: 0
+        Maximus Distillation II
+        {
+            Stocktake Purification
+            Numerical Reflection: 0
+            Selection Distillation
+            Muninn's Reflection
+            Numerical Reflection: 2
+            Selection Distillation
+            Jester's Gambit
+            Integration Distillation
+            Muninn's Reflection
+            Jester's Gambit
+            Numerical Reflection: 2
+            Jester's Gambit
+            Surgeon's Exaltation
+            Huginn's Gambit
+        }
+        {
+            Sekhmet's Gambit: 0
+        }
+        Augur's Exaltation
+        Hermes' Gambit
+    }
     Augur's Exaltation
     Hermes' Gambit
-    Bookkeeper's Gambit: v-
-    Additive Distillation
 }
-Jester's Gambit
+Stocktake Reflection
 Thoth's Gambit
-Send Thought
+Muninn's Reflection
+Numerical Reflection: 2
+Selection Distillation
+Gemini Decomposition
+Length Purification
+Numerical Reflection: 1
+Equality Distillation
+{
+    Flock's Disintegration
+    Gemini Decomposition
+    Send Thought
+    Mind's Reflection
+    Compass' Purification
+    Muninn's Reflection
+    Numerical Reflection: 1
+    Selection Distillation
+    Return Item
+}
+{
+    Gemini Decomposition
+    Vacant Reflection
+    Equality Distillation
+    Vacant Reflection
+    {
+        Reveal
+    }
+    Augur's Exaltation
+    Hermes' Gambit
+}
+Augur's Exaltation
+Hermes' Gambit
